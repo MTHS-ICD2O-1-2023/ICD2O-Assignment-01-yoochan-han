@@ -2,3 +2,15 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+body {
+  color: white;
+}
+.cont {
+    background-color: #f4f4f4;
+    color: #000000;
+    max-width: auto;
+    margin: 0 auto;
+    border: 5px solid #12c56b;
+    align-content: center;
+  }
+  
