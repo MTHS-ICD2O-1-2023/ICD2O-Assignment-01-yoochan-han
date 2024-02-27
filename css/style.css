@@ -2,7 +2,11 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
-
+body {
+  background-color: #000000;
+  font-style: normal;
+  color: #ffffff;
+}
 .myimg {
   background-color: #000000;
   color: #ffffff;
@@ -29,6 +33,17 @@
   border-bottom: 1px #12c56b;
 }
 table {
-  size: auto;
+  max-width: 550px;
   border-color: #12c56b;
+}
+.wh {
+  color: black;
+  background-color: #ffffff;
+}
+p {
+  font-size: medium;
+}
+
+ol {
+  
 }
