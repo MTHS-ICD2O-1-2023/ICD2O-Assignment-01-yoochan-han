@@ -44,6 +44,21 @@ p {
   font-size: medium;
 }
 
-ol {
-  
+.myimgac {
+  font-style: oblique;
+  color: aquamarine;
+}
+.myqf {
+  /* my quote form */
+  /* outline css */
+  border-radius: 30px;
+
+  /* basic css */
+  display: inline-block;
+  text-align: center;
+  padding: 50px 100px;
+  color: white;
+  background-color: #00000052;
+  font-size: 2rem;
+  font-weight: 600;
 }
