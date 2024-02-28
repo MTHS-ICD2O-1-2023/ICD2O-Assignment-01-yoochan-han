@@ -3,34 +3,14 @@
 * This file contains the CSS for index.html
 */
 body {
-  background-color: #000000;
+  background-color: #ffffff;
   font-style: normal;
-  color: #ffffff;
+  color: #00000;
 }
-.myimg {
-  background-color: #000000;
-  color: #ffffff;
-  max-width: 550px;
-  margin: 0 left;
-  border: 3px solid #12c56b;
-  border-top: 10px solid #12c56b;
-  align-content: right;
-}
-
   h4 {
     text-align: center;
   }
   /*' abc is about charater'*/
-.myabc {
-  font-size: large;
-  border-bottom: 1px #12c56b;
-}
-
-table {
-  max-width: 550px;
-  border-color: #12c56b;
-}
-
 p {
   font-size: medium;
 }
